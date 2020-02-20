@@ -1,4 +1,5 @@
-Master Strapi with The Complete Strapi Course: 
+# Master Strapi with The Complete Strapi Course: 
+
 Available on Podia for just $7.99:
 https://strapi.entreprenerd.xyz/complete-strapi-course?coupon=STRAPI_LAUNCH
 
